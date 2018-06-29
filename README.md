@@ -1,0 +1,3 @@
+# Git paskaita
+
+bandome Git
